@@ -1,0 +1,36 @@
+Source,Target,Value,Color,Node_Label
+0,1,9750,lightgreen,         Research Budget 
+0,2,34210,cyan,         Communications Budget 
+0,3,430,magenta,         Networking Budget 
+0,4,8958.95,blue,          Event Budget
+0,5,3400,yellow,         Promotions Budget 
+0,6,9740,orange,         Advertising Budget
+0,7,4800,pink,         PR 
+1,8,6400,lightgreen,         Research firm fees
+1,9,1300,lightgreen,         Web Research 
+1,10,1350,lightgreen,         Independent Research
+1,11,700,lightgreen, Other Research
+2,12,1500,cyan, Promotional brochures
+2,13,24000,cyan,TV
+2,14,8450,cyan,Radio
+2,15,360,cyan,'Social media'
+3,16,240,magenta,         Memberships
+3,17,100,magenta,Affiliations
+3,18,90,magenta,Subscriptions
+4,19,2100,blue,         Meal
+4,20,3745,blue,Entertainment and valet services
+4,21,629.95,blue,Audio/Visual services
+4,22,1734,blue,Addl services
+4,23,750,blue,Guest Gifts
+5,24,600,yellow,         Product gifts
+5,25,1800,yellow, Product Discounts
+5,26,1000,yellow,Special Offers
+6,27,750,orange,         Brochures
+6,28,600,orange,Mailings
+6,29,450,orange,Postcards
+6,30,3440,orange,TV+Radio
+6,31,2400,orange,Print media
+6,32,2100,orange,Outdoor ads
+7,33,2100,pink,         Charity
+7,34,1800,pink,Employee promotions
+7,35,900,pink,Sponsorships
